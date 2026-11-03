@@ -31,6 +31,6 @@ The project will evolve incrementally, with an emphasis on software architecture
 
 ## Project Status
 
-<text color="yellow" weight="medium" inline>In Development</text>
+![Status](https://img.shields.io/badge/Status-In%20Development-yellow)
 
 This is an ongoing independent project, with new features and improvements planned as development progresses.
